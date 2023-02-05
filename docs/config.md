@@ -17,7 +17,7 @@ relayer to send alert messages.
 
 References:
 + [create a bot](https://core.telegram.org/bots#6-botfather)
-+ [get bot id and chat id](https://stackoverflow.com/questions/32423837/telegram-bot-how-to-get-a-group-chat-id)
++ [get bot id and chat id](httphttpss://stackoverflow.com/questions/32423837/telegram-bot-how-to-get-a-group-chat-id)
 
 ## Chain config
 
